@@ -1,0 +1,2 @@
+# dym
+tea testnet
